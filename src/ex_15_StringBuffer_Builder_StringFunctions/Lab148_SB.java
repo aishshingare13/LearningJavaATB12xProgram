@@ -1,6 +1,6 @@
 package ex_15_StringBuffer_Builder_StringFunctions;
 
-public class Lab149_SB {
+public class Lab148_SB {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("Java");
         sb.append(" Programming");
