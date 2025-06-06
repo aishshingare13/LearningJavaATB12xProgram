@@ -20,6 +20,7 @@ public class Task16_Armstrong_Number {
         while (number > 0){
             int digit = number % 10;
             sum += Math.pow(digit,digits);
+           // sum = sum + Math.pow(digit, digits);
             number = number / 10;
         }
 
