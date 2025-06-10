@@ -1,6 +1,7 @@
-package Tasks28.OOPs_Concept;
+package Tasks.Task28_OOPs_Concept;
+
 //child class demonstrating single inheritance
- public class Car extends Vehicle{
+ public class Car extends Vehicle {
     private int numDoors;
 
     //constructor using super keyword

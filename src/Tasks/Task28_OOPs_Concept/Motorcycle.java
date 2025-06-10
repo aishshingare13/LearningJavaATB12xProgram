@@ -1,6 +1,6 @@
-package Tasks28.OOPs_Concept;
+package Tasks.Task28_OOPs_Concept;
 
-public class Motorcycle extends Vehicle{
+public class Motorcycle extends Vehicle {
     private boolean hasSideCar;
 
     //Constructor using 'super' keyword
