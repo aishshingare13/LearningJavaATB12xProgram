@@ -22,7 +22,6 @@ public class Lab205_Wrapper {
         int p_int = myint.intValue();
         int p_int2 = myint;
 
-
     }
 
 }
