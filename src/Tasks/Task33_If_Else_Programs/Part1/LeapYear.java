@@ -1,4 +1,4 @@
-package Tasks.Task33_If_Else_Programs;
+package Tasks.Task33_If_Else_Programs.Part1;
 
 import java.util.Scanner;
 
