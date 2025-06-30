@@ -2,7 +2,7 @@ package ex_26_Generics;
 
 public class Lab228_Generics {
     public static void main(String[] args) {
-        temp(3,4);
+        temp(3,5);
         temp(2.24,5.89);
         temp("Aishwarya", "Shingare");
     }

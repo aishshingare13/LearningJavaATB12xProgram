@@ -6,7 +6,7 @@ public class Lab227 {
         temp_sum(3.4,6.5);
         temp_sum("Aishwarya", "Shingare");
     }
-    static Integer  temp_sum(Integer a, Integer b){
+    static Integer temp_sum(Integer a, Integer b){
         return a+b;
     }
 
