@@ -11,10 +11,10 @@ public class Lab251_Set {
         Set lhs = new LinkedHashSet();
         Set ts = new TreeSet();
 
-        hs.add("Pramod");
-        hs.add("Pramod");
-        hs.add("pramod");
-        hs.add("dramod");
+        hs.add("Aishwarya");
+        hs.add("Aishwarya");
+        hs.add("aishwarya");
+        hs.add("dishwarya");
         System.out.println(hs);
 
     }

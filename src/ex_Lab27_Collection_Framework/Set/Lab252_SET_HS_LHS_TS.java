@@ -12,7 +12,7 @@ public class Lab252_SET_HS_LHS_TS {
         // Hashing mechanism to store the element,no order.
         // no duplicates
 
-        hs.add("Apple");
+        hs.add("Mango");
         hs.add("Orange");
         hs.add("WaterMelon");
         hs.add("WaterMelon");
