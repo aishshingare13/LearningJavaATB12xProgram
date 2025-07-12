@@ -1,5 +1,5 @@
 package Tasks.Task35_Inheritance_Constructor.Inheritance;
-
+//Multilevel Inheritance + Method Calling
 public class MultilevelLoginSystem {
     public static void main(String[] args) {
         SuperAdmin superAdmin = new SuperAdmin();
